@@ -1,0 +1,23 @@
+.calculator {
+    height: 700px;
+    width: 480px;
+    border: 1px solid red;
+}
+
+.display {
+    height: 180px;
+    width: 100%;
+    border: 1px solid red;
+}
+
+.btn-pad {
+    height: 520px;
+    width: 100%;
+    border: 1px solid blue;
+}
+
+.button {
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+}
