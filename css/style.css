@@ -31,8 +31,8 @@ button:hover {
     box-sizing: border-box;
     flex: 1 0 25%;
     border-radius: 30px 30px 0 0;
-    background-color: #202024;
-    box-shadow: inset 4px 4px 7px #ffffff77, inset -4px -4px 7px #00000077,
+    background-color: #323232;
+    box-shadow: inset 4px 4px 7px #ffffff77, inset -4px 0px 7px #00000077,
     10px 15px 30px #00000077;
     display: flex;
     justify-content: flex-end;
@@ -54,7 +54,7 @@ button:hover {
     justify-content: space-evenly;
     border-radius: 0 0 30px 30px;
     background-color: #FFD000;
-    box-shadow: inset 4px 4px 7px #ffffff77, inset -4px -4px 7px #00000077,
+    box-shadow: inset 4px 0px 7px #ffffffcc, inset -4px -4px 7px #00000077,
     10px 15px 30px #00000077;
 }
 
@@ -87,6 +87,6 @@ button {
 }
 
 .equals {
-    background-color: #202024;
+    background-color: #323232;
     color: #f2f2f2;
 }
