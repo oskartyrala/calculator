@@ -15,6 +15,10 @@ body {
     align-items: center;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .calculator {
     height: 700px;
     width: 450px;
