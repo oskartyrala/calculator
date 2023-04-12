@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
 body, html {
     margin: 0;
     padding: 0;
@@ -51,8 +53,23 @@ button {
     border-radius: 50%;
     border: none;
     box-shadow: inset 1px 1px 2px #ffffff77, inset -1px -1px 2px #00000077;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.backspace {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backspace > img {
+    height: 20px;
+    margin-right: 5px;
 }
 
 .equals {
     background-color: #202024;
+    color: #f2f2f2;
 }
